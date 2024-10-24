@@ -59,3 +59,5 @@ un link/video cu funcționalitatea montajului fizic
 schema electrică (Wokwi, TinkerCAD etc.)
 
 https://drive.google.com/drive/folders/13wJZ86PnqdXt_PKEQ98nLbUoZpUQw6BY?usp=sharing   - VIDEO
+
+https://wokwi.com/projects/412618681041703937 - simulator
