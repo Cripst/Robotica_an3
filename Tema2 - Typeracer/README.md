@@ -27,3 +27,6 @@ Arduino UNO (ATmega328P microcontroller)
 5x Rezistoare (3x 220/330 ohm, 2x 1000 ohm)
 Breadbord
 Fire de legătură
+
+Link video/poze:
+https://drive.google.com/drive/folders/15y4ToTMtuPBqti1QcjiX2s2bt0OcQWzd
