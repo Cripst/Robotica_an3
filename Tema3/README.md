@@ -1,4 +1,4 @@
-Coechipier: Calin Cristian
+Coechipier: Popa Robert Daniel
 
 Descriere task: Implementarea unui joc de apasat cat mai rapid butonul corespunzator.
 
